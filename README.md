@@ -28,6 +28,19 @@ Des économies sont promises, mais c'est surtout un profilage à l'usage qui est
 
 ## Circuit
 
+### Version 1.0
+
+### Version 1.1
+
+[![v1.1 front](./telewatt_v1.1/assets/full_option_front.png)](./telewatt_v1.1/assets/full_option_front.png)
+
+[![v1.1 back](./telewatt_v1.1/assets/full_option_back.png)](./telewatt_v1.1/assets/full_option_back.png)
+Carte complète (circuit USB + condensateur; en pratique, un seul est nécessaire).
+
+[![v1.1 usb only](./telewatt_v1.1/assets/usb_only_option_back.png)](./telewatt_v1.1/assets/usb_only_option_back.png)
+
+Carte non autonome avec circuit USB seul.
+
 ### Généralités
 
 Le raccordement se fait sur le bornier du compteur comprenant 3 bornes (L1, L2, A).
@@ -84,7 +97,7 @@ GPIO16  | Réveil deepsleep
 
 ### Datasheet
 
-[![schematic][telewatt_v1.1/schematic.svg]][telewatt_v1.1/schematic.svg]
+[![python test coverage](./telewatt_v1.1/schematic.svg)](./telewatt_v1.1/schematic.svg)
 
 
 ## Firmware
