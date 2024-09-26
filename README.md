@@ -109,6 +109,7 @@ GPIO16  | Réveil deepsleep
 - Pad optionnel de gestion de la LED TIC
 - Pad optionnel de gestion du flash sur le pin RST au lieu du pin EN
 - Ajout broche 5V
+- Ajout circuit de surveillance de la tension du condensateur
 
 
 ## Firmware
