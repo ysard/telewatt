@@ -1,4 +1,4 @@
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ysard/telewatt)](https://github.com/ysard/telewatt/releases/latest/)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/ysard/telewatt)](https://github.com/ysard/telewatt/tags/latest/)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # TeleWatt
