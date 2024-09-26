@@ -23,7 +23,8 @@ intrusifs s'ils ont été souscrits auprès du fournisseur.
 Un pas de collecte plus court permit par les modules Téléinfo l'est encore plus.
 Par ailleurs, les modules du commerce ne viennent en général jamais seuls :
 ils peuvent être couplés à des mesures de température, d'humidité, etc.
-Des économies sont promises, mais c'est surtout un profilage à l'usage qui est obtenu.
+Des économies sont promises, mais c'est surtout un profilage à l'usage de l'électricité
+qui est obtenu.
 
 
 ## Circuit
