@@ -66,7 +66,7 @@ Options :
 ### Pinout
 
 Pin     | Fonction
-|:---   |: --- |
+|:--- |:--- |
 ADC     | Surveillance de la tension du condensateur
 GPIO0   | Démarrage automatique en mode flash
 GPIO1   | UART TX
