@@ -1,0 +1,2634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="316.65mm" height="235.35mm" version="1.2" viewBox="0 0 6333 4707" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>Proteus Design Suite SVG export</title>
+ <desc>Created by Proteus Design Suite</desc>
+ <g transform="translate(-809,-911)" fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="square" stroke-linejoin="bevel">
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m5411 5208h1727v406h-1727v-406" fill-rule="evenodd"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="5436" y="5250" xml:space="preserve">TITLE:</text>
+     <text x="5436" y="5581" xml:space="preserve">BY:</text>
+     <text x="6706" y="5250" xml:space="preserve">DATE:</text>
+     <text x="6706" y="5454" xml:space="preserve">PAGE:</text>
+    </g>
+    <g fill="#000000" font-size="72.898px" stroke="none">
+     <text x="5512" y="5370" xml:space="preserve">teleinfo.pdsprj</text>
+     <text x="6732" y="5370" xml:space="preserve">26/09/2024</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="5589" y="5581" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">@AUTHOR</text>
+    </g>
+    <g fill="none" font-size="72.898px" stroke="#000">
+     <text x="6782" y="5574" fill="#000000" font-family="Arial" font-size="72.898px" font-weight="400" stroke="none" xml:space="preserve">1/1</text>
+    </g>
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="6351" y="5581" xml:space="preserve">REV:</text>
+     <text x="6503" y="5581" xml:space="preserve">@REV</text>
+    </g>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6681 5208 6681 5614" fill="none"/>
+    <g fill-rule="evenodd">
+     <path d="m1601 3633h330v51"/>
+     <path d="m1601 3633h-229v51"/>
+     <path d="m1601 3938h330v-51"/>
+     <path d="m1601 3938h-229v-51"/>
+     <path d="m1525 2693v-178"/>
+     <path d="m4623 4065v152"/>
+     <path d="m4623 4065v-229h-101"/>
+     <path d="m2160 2718v-25"/>
+     <path d="m1525 2210"/>
+     <path d="m1525 2210"/>
+     <path d="m5335 2033h-51"/>
+     <path d="m1093 3785h76"/>
+     <path d="m1652 3785h76"/>
+     <path d="m4268 1982"/>
+     <path d="m4268 1982v711h305"/>
+     <path d="m4090 2134"/>
+     <path d="m4090 2134h483"/>
+     <path d="m3963 2134v-51"/>
+     <path d="m3963 2134h127"/>
+     <path d="m3963 2134v26h-25v-51h-77"/>
+     <path d="m3963 2337h-51v26h-51"/>
+     <path d="m3963 2337h127"/>
+     <path d="m3963 2337v26"/>
+     <path d="m4090 2947v-51"/>
+     <path d="m5792 1753h-102"/>
+     <path d="m5792 1753h101"/>
+     <path d="m5792 1753v-127"/>
+     <path d="m4166 1728h-76"/>
+     <path d="m4166 1728h102"/>
+     <path d="m4166 1728v-102"/>
+     <path d="m4369 2312v-76h204"/>
+     <path d="m4496 2033h77"/>
+     <path d="m4496 2033h-406v-51"/>
+     <path d="m4496 2033v-153"/>
+     <path d="m5589 2134h-305"/>
+     <path d="m5589 2134h101v-127"/>
+     <path d="m5589 2134v-305"/>
+     <path d="m1575 1448v26"/>
+     <path d="m1677 1474v-26"/>
+     <path d="m1982 1474v-26"/>
+     <path d="m2083 1474v-26"/>
+     <path d="m4801 4014v51h-178"/>
+     <path d="m4623 3734v-101"/>
+     <path d="m4623 3734h-101"/>
+     <path d="m5335 1982h-51"/>
+     <path d="m4446 1982h127"/>
+     <path d="m4446 1982h-178"/>
+     <path d="m4446 1982v-305"/>
+     <path d="m3709 4065h914"/>
+     <path d="m3709 4065v-51"/>
+     <path d="m3709 3734h102"/>
+     <path d="m3709 3734v26"/>
+     <path d="m2972 3099v-25"/>
+     <path d="m2972 3430v-26"/>
+     <path d="m3353 3430v25"/>
+     <path d="m3099 3430h-127"/>
+     <path d="m3099 3430h254"/>
+     <path d="m3099 3430v50"/>
+     <path d="m3353 4065h356"/>
+     <path d="m3353 4065v-77"/>
+     <path d="m3353 3785v-25"/>
+     <path d="m3353 3785v51"/>
+     <path d="m3099 3785v-51"/>
+     <path d="m3099 3785h254"/>
+     <path d="m6554 3709h51"/>
+     <path d="m6554 3760h51"/>
+     <path d="m6554 3811h51"/>
+     <path d="m6554 3861h51"/>
+     <path d="m6554 3912h51"/>
+     <path d="m6554 3963h51"/>
+     <path d="m4750 3734h51v26"/>
+     <path d="m4750 3734h-127"/>
+     <path d="m4750 3734v-101"/>
+     <path d="m2236 4725v-76h228"/>
+     <path d="m3176 4623v26h-102"/>
+     <path d="m2337 5284v25"/>
+     <path d="m4090 4623v26h-229"/>
+     <path d="m2464 5030h-127"/>
+     <path d="m2464 5030v-330"/>
+     <path d="m2464 5030v25h1601v-305h-204"/>
+     <path d="m1321 4547h-304v203"/>
+     <path d="m1271 4344h50"/>
+     <path d="m1271 4395h50"/>
+     <path d="m1271 4446h50"/>
+     <path d="m1271 4496h50"/>
+     <path d="m5995 3709h152v127h-762v-25"/>
+     <path d="m5995 3506h152v-51"/>
+     <path d="m2490 3430v228"/>
+     <path d="m2490 4065v-204"/>
+     <path d="m3099 3811v-26"/>
+     <path d="m3099 4065h254"/>
+     <path d="m3099 4065h-609"/>
+     <path d="m3099 4065"/>
+     <path d="m2210 3430h-609v203"/>
+     <path d="m2210 3430h280"/>
+     <path d="m2210 3430v203"/>
+     <path d="m2210 4065h-609v-127"/>
+     <path d="m2210 4065h280"/>
+     <path d="m2210 4065v-178"/>
+     <path d="m2896 3734v51h203"/>
+     <path d="m2896 3430h76"/>
+     <path d="m2896 3430h-406"/>
+     <path d="m2896 3430v50"/>
+     <path d="m6630 5131v-101"/>
+     <path d="m3684 3430h25v304"/>
+     <path d="m3684 3430h-331"/>
+    </g>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="3506" y="3418" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">VIN</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <g fill-rule="evenodd">
+     <path d="m3684 3430v-102"/>
+     <path d="m5258 4649h51"/>
+     <path d="m5258 4649v51h51"/>
+     <path d="m5258 4649v-254h737v254h-76"/>
+     <path d="m6630 4852v-25"/>
+     <path d="m6630 4852v25"/>
+     <path d="m6630 4852h-711"/>
+     <path d="m4674 4649h584"/>
+     <path d="m4674 4649v-51"/>
+     <path d="m4674 4649v76"/>
+     <path d="m5614 5157v51"/>
+     <path d="m5614 5157v-51"/>
+     <path d="m5614 5157h381v-407h-76"/>
+     <path d="m5335 4750h-26"/>
+     <path d="m4674 5131v127"/>
+     <path d="m4674 5131v-152"/>
+     <path d="m4979 4852v-102"/>
+     <path d="m4979 4852v279h-305"/>
+     <path d="m6274 2185v51h127v-203h102"/>
+     <path d="m6452 1779h51"/>
+     <path d="m6452 1677h51"/>
+     <path d="m5665 2185h-381"/>
+     <path d="m5665 2185h228v-178"/>
+     <path d="m5665 2185v102"/>
+     <path d="m4090 2642h483"/>
+     <path d="m4090 2642"/>
+     <path d="m4090 2642v-51"/>
+     <path d="m5970 4700h-51"/>
+     <path d="m6376 4700h178v101h-635"/>
+     <path d="m5258 4852h51"/>
+     <path d="m5258 4852h-279"/>
+     <path d="m5258 4852v-51h51"/>
+     <path d="m2642 2312h584"/>
+     <path d="m2642 2414h26"/>
+     <path d="m3226 2414"/>
+     <path d="m2160 2414h-381"/>
+     <path d="m2160 2414v50"/>
+     <path d="m2160 2414h127"/>
+     <path d="m2185 1956v-25"/>
+     <path d="m2185 1956v356h102"/>
+     <path d="m1169 2210h-102"/>
+     <path d="m1169 2210h356"/>
+     <path d="m1169 2210v-25"/>
+     <path d="m1194 1855h-25v25"/>
+     <path d="m1525 1956h660"/>
+     <path d="m1525 1956"/>
+     <path d="m1525 1956v-101h-77"/>
+     <path d="m1194 5436v-51h127"/>
+     <path d="m1194 5004h26v178h101"/>
+     <path d="m5335 2287h-51"/>
+     <path d="m5335 2236h-51"/>
+     <path d="m4776 1525v-178h51"/>
+     <path d="m4877 1550v-203"/>
+     <path d="m5004 1372h77"/>
+     <path d="m5004 1372v-25h-25"/>
+     <path d="m5004 1372v127"/>
+     <path d="m4954 1474v-127h-26"/>
+     <path d="m4954 1474v25"/>
+     <path d="m4954 1474h127v51"/>
+     <path d="m5411 1372h-76"/>
+     <path d="m5411 1372v-152"/>
+     <path d="m5411 1372v153h-76"/>
+     <path d="m6503 2439h-51"/>
+     <path d="m6503 2490h-51"/>
+     <path d="m6503 2541h-51"/>
+     <path d="m6503 2591h-51"/>
+     <path d="m6503 2642h-51"/>
+     <path d="m6503 2693h-51"/>
+     <path d="m6503 2744h-51"/>
+     <path d="m6503 2795h-127v76"/>
+     <path d="m6452 1728h51"/>
+     <path d="m6452 1880h51"/>
+     <path d="m6452 1931h51"/>
+     <path d="m6452 1982h51"/>
+     <path d="m4547 2490h26"/>
+     <path d="m4547 2541h26"/>
+     <path d="m4547 2591h26"/>
+     <path d="m5335 2388h-51"/>
+     <path d="m3963 4852h-102"/>
+     <path d="m3963 4852v76"/>
+     <path d="m3963 4852v-51h-102"/>
+     <path d="m6452 1829h51"/>
+     <path d="m5716 3480h25v127h51"/>
+     <path d="m5385 3480h77"/>
+     <path d="m5385 3480v-25"/>
+     <path d="m5385 3480h-279v51"/>
+     <path d="m5106 3887v-51"/>
+     <path d="m1708 2363c0 64.62-52.38 117-117 117s-117-52.38-117-117 52.38-117 117-117 117 52.38 117 117"/>
+     <path d="m1626 2363-51-15v30l51-15"/>
+    </g>
+    <g fill="none">
+     <polyline points="1677 2312 1677 2414"/>
+     <polyline points="1728 2414 1677 2414"/>
+     <polyline points="1626 2312 1575 2312"/>
+     <polyline points="1626 2414 1575 2414"/>
+     <polyline points="1575 2363 1555 2363"/>
+     <polyline points="1575 2414 1525 2414"/>
+     <polyline points="1525 2312 1575 2312"/>
+     <polyline points="1555 2363 1555 2414"/>
+    </g>
+    <path d="m1540 2378h-31l16-25 15 25" fill-rule="evenodd"/>
+    <g fill="none">
+     <polyline points="1540 2348 1509 2348"/>
+     <polyline points="1509 2348 1499 2358"/>
+     <polyline points="1550 2337 1540 2348"/>
+     <polyline points="1525 2312 1525 2348"/>
+     <polyline points="1525 2378 1525 2414"/>
+     <polyline points="1525 2312 1525 2266"/>
+     <polyline points="1525 2414 1525 2464"/>
+    </g>
+    <g fill-rule="evenodd">
+     <path d="m1626 2292h26v35h-26v-35"/>
+     <path d="m1626 2393h26v41h-26v-41"/>
+     <path d="m1626 2342h26v36h-26v-36"/>
+    </g>
+    <g fill="none">
+     <polyline points="1525 2210 1525 2261"/>
+     <polyline points="1779 2414 1728 2414"/>
+     <polyline points="1525 2515 1525 2464"/>
+    </g>
+   </g>
+   <g fill="none" font-family="Arial" font-size="62.484px" stroke="#000" stroke-linecap="square">
+    <text x="1732" y="2179" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">Q2</text>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="1732" y="2575" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">BSS138</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m1321 3938v-102l-50 51 50 51" fill-rule="evenodd"/>
+    <polyline points="1271 3938 1271 3836" fill="none"/>
+    <path d="m1271 3734v-101l50 51-50 50" fill-rule="evenodd"/>
+    <g fill="none">
+     <polyline points="1321 3734 1321 3633"/>
+     <polyline points="1271 3684 1220 3684"/>
+     <polyline points="1220 3684 1220 3887"/>
+     <polyline points="1220 3887 1271 3887"/>
+     <polyline points="1372 3887 1321 3887"/>
+     <polyline points="1169 3785 1220 3785"/>
+     <polyline points="1372 3684 1321 3684"/>
+    </g>
+   </g>
+   <g fill="none" font-family="Arial" font-size="62.484px" stroke="#000" stroke-linecap="square">
+    <text x="1216" y="3617" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">D3</text>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="1216" y="3982" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">BAT54S</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m1880 3938v-102l-51 51 51 51" fill-rule="evenodd"/>
+    <polyline points="1829 3938 1829 3836" fill="none"/>
+    <path d="m1829 3734v-101l51 51-51 50" fill-rule="evenodd"/>
+    <g fill="none">
+     <polyline points="1880 3734 1880 3633"/>
+     <polyline points="1829 3684 1779 3684"/>
+     <polyline points="1779 3684 1779 3887"/>
+     <polyline points="1779 3887 1829 3887"/>
+     <polyline points="1931 3887 1880 3887"/>
+     <polyline points="1728 3785 1779 3785"/>
+     <polyline points="1931 3684 1880 3684"/>
+    </g>
+   </g>
+   <g fill="none" font-family="Arial" font-size="62.484px" stroke="#000" stroke-linecap="square">
+    <text x="1775" y="3617" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">D4</text>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="1775" y="3982" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">BAT54S</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m3912 3887h508v-203h-508v203" fill-rule="evenodd"/>
+    <polyline points="4522 3836 4420 3836" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4302" y="3852" xml:space="preserve">GND</text>
+    <text x="4471" y="3828" xml:space="preserve">1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="3811 3734 3912 3734" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="3938" y="3750" xml:space="preserve">VIN</text>
+    <text x="3838" y="3726" xml:space="preserve">3</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4522 3734 4420 3734" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="4278" y="3750" xml:space="preserve">VOUT</text>
+     <text x="4471" y="3726" xml:space="preserve">2</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="3908" y="3668" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">U2</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="3908" y="3931" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">MCP1700T3302E_TT</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" fill-rule="evenodd" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m1611 3633c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m1611 3938c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m4674 2744h508v-813h-508v813" fill-rule="evenodd"/>
+    <polyline points="5284 2388 5182 2388" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5069" y="2404" xml:space="preserve">ADC</text>
+    <text x="5233" y="2380" xml:space="preserve">2</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5284 2693 5182 2693" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5076" y="2709" xml:space="preserve">CS0</text>
+    <text x="5233" y="2685" xml:space="preserve">9</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 2033 4674 2033" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4700" y="2049" xml:space="preserve">EN</text>
+    <text x="4600" y="2025" xml:space="preserve">3</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 2236 4674 2236" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4700" y="2252" xml:space="preserve">GND</text>
+    <text x="4577" y="2228" xml:space="preserve">15</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5284 2134 5182 2134" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5028" y="2150" xml:space="preserve">GPIO0</text>
+    <text x="5233" y="2126" xml:space="preserve">18</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 2490 4674 2490" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4700" y="2506" xml:space="preserve">GPIO12</text>
+    <text x="4600" y="2482" xml:space="preserve">6</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 2541 4674 2541" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4700" y="2557" xml:space="preserve">GPIO13</text>
+    <text x="4600" y="2533" xml:space="preserve">7</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 2591 4674 2591" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4700" y="2607" xml:space="preserve">GPIO14</text>
+    <text x="4600" y="2583" xml:space="preserve">5</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 2642 4674 2642" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4700" y="2658" xml:space="preserve">GPIO15</text>
+    <text x="4577" y="2634" xml:space="preserve">16</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 2693 4674 2693" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4700" y="2709" xml:space="preserve">GPIO16</text>
+    <text x="4600" y="2685" xml:space="preserve">4</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5284 2185 5182 2185" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5028" y="2201" xml:space="preserve">GPIO2</text>
+    <text x="5233" y="2177" xml:space="preserve">17</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5284 2236 5182 2236" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5028" y="2252" xml:space="preserve">GPIO4</text>
+    <text x="5233" y="2228" xml:space="preserve">19</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5284 2287 5182 2287" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5028" y="2303" xml:space="preserve">GPIO5</text>
+    <text x="5233" y="2279" xml:space="preserve">20</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 2388 4674 2388" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4700" y="2404" xml:space="preserve">IO10</text>
+    <text x="4577" y="2380" xml:space="preserve">12</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 2337 4674 2337" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4700" y="2353" xml:space="preserve">IO9</text>
+    <text x="4580" y="2329" xml:space="preserve">11</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5284 2541 5182 2541" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5049" y="2557" xml:space="preserve">MISO</text>
+    <text x="5233" y="2533" xml:space="preserve">10</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5284 2591 5182 2591" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5049" y="2607" xml:space="preserve">MOSI</text>
+    <text x="5233" y="2583" xml:space="preserve">13</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 1982 4674 1982" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4700" y="1998" xml:space="preserve">RST</text>
+    <text x="4600" y="1974" xml:space="preserve">1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5284 2033 5182 2033" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5070" y="2049" xml:space="preserve">RXD</text>
+    <text x="5233" y="2025" xml:space="preserve">21</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5284 2642 5182 2642" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5048" y="2658" xml:space="preserve">SCLK</text>
+    <text x="5233" y="2634" xml:space="preserve">14</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5284 1982 5182 1982" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5074" y="1998" xml:space="preserve">TXD</text>
+    <text x="5233" y="1974" xml:space="preserve">22</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="4573 2134 4674 2134" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="4700" y="2150" xml:space="preserve">VCC</text>
+     <text x="4600" y="2126" xml:space="preserve">8</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="4670" y="1915" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">U1</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="4670" y="2788" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">ESP12F</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m2160 1880 25-51 25 51h-50" fill-rule="evenodd"/>
+     <polyline points="2185 1931 2185 1829" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="2134" y="1795" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m4598 3582 25-51 26 51h-51" fill-rule="evenodd"/>
+     <polyline points="4623 3633 4623 3531" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4573" y="3496" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="1525 2693 1525 2744"/>
+     <polyline points="1474 2744 1575 2744"/>
+     <polyline points="1499 2769 1550 2769"/>
+     <polyline points="1520 2795 1530 2795"/>
+     <polyline points="2160 2693 2160 2744"/>
+     <polyline points="2109 2744 2210 2744"/>
+     <polyline points="2134 2769 2185 2769"/>
+     <polyline points="2155 2795 2165 2795"/>
+     <polyline points="4623 4217 4623 4268"/>
+     <polyline points="4573 4268 4674 4268"/>
+     <polyline points="4598 4293 4649 4293"/>
+     <polyline points="4618 4319 4628 4319"/>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m4633 4065c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m2139 2515h41v153h-41v-153" fill-rule="evenodd"/>
+    <polyline points="2160 2464 2160 2515" fill="none"/>
+    <polyline points="2160 2718 2160 2668" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="62.484px" stroke-linecap="square">
+    <text x="2209" y="2569" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R2</text>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="2209" y="2627" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3K</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m1504 2007h41v153h-41v-153" fill-rule="evenodd"/>
+    <polyline points="1525 1956 1525 2007" fill="none"/>
+    <polyline points="1525 2210 1525 2160" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="62.484px" stroke-linecap="square">
+    <text x="1574" y="2061" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R3</text>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="1574" y="2119" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">10K</text>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m1535 2210c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m5670 1804h41v152h-41v-152" fill-rule="evenodd"/>
+    <polyline points="5690 1753 5690 1804" fill="none"/>
+    <polyline points="5690 2007 5690 1956" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="62.484px" stroke="#000" stroke-linecap="square">
+    <text x="5740" y="1858" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R4</text>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="5740" y="1916" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">10K</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m5873 1804h41v152h-41v-152" fill-rule="evenodd"/>
+    <polyline points="5893 1753 5893 1804" fill="none"/>
+    <polyline points="5893 2007 5893 1956" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="62.484px" stroke="#000" stroke-linecap="square">
+    <text x="5943" y="1858" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R5</text>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="5943" y="1916" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">10K</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m4070 2693h40v152h-40v-152" fill-rule="evenodd"/>
+    <polyline points="4090 2642 4090 2693" fill="none"/>
+    <polyline points="4090 2896 4090 2845" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="62.484px" stroke="#000" stroke-linecap="square">
+    <text x="4140" y="2747" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R8</text>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="4140" y="2805" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">10K</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m4070 1779h40v152h-40v-152" fill-rule="evenodd"/>
+    <polyline points="4090 1728 4090 1779" fill="none"/>
+    <polyline points="4090 1982 4090 1931" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="62.484px" stroke="#000" stroke-linecap="square">
+    <text x="4140" y="1833" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R6</text>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="4140" y="1891" xml:space="preserve">10K</text>
+    <text x="4140" y="1942" xml:space="preserve">Optional with voltage supervisors </text>
+    <text x="4140" y="1992" xml:space="preserve">TPS3839 or TPS3831</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m1006 2210c0 11.05-8.954 20-20 20s-20-8.95-20-20 8.954-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="1006 2210 1067 2210" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="883" y="2226" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">RX</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m5436 2033c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="5396 2033 5335 2033" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="5462" y="2049" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">RX</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m3328 2312c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="3287 2312 3226 2312" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="3353" y="2328" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">L1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m1032 3785c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="1032 3785 1093 3785" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="938" y="3801" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">A</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m1590 3785c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="1591 3785 1652 3785" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="1479" y="3801" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">L1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m4247 1779h41v152h-41v-152" fill-rule="evenodd"/>
+    <polyline points="4268 1728 4268 1779" fill="none"/>
+    <polyline points="4268 1982 4268 1931" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="62.484px" stroke="#000" stroke-linecap="square">
+    <text x="4318" y="1833" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R7</text>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="4318" y="1891" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">10K</text>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m4278 1982c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m3938 2033 25-51 25 51h-50" fill-rule="evenodd"/>
+    <polyline points="3963 2083 3963 1982" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="3912" y="1947" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="3811 2251 3912 2251"/>
+    <polyline points="3811 2221 3912 2221"/>
+    <polyline points="3861 2261 3861 2251"/>
+    <polyline points="3861 2221 3861 2210"/>
+    <polyline points="3861 2363 3861 2261"/>
+   </g>
+   <g transform="rotate(-90,3853,2335)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="3853" y="2335" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="3861 2109 3861 2210" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,3853,2160)" font-size="41.656px">
+     <text x="3853" y="2160" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="3942" y="2264" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">C1</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="3942" y="2323" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">10u</text>
+    </g>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="4039 2221 4141 2221"/>
+    <polyline points="4039 2251 4141 2251"/>
+    <polyline points="4090 2251 4090 2287"/>
+    <polyline points="4090 2221 4090 2185"/>
+    <polyline points="4090 2134 4090 2185"/>
+    <polyline points="4090 2337 4090 2287"/>
+   </g>
+   <g font-family="Arial" font-size="62.484px" stroke-linecap="square">
+    <text x="4170" y="2239" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">C2</text>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="4170" y="2297" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">100n</text>
+   </g>
+  </g>
+  <g font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <g fill="#000" fill-rule="evenodd">
+    <path d="m4100 2134c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+    <path d="m3973 2134c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   </g>
+   <g fill="none">
+    <polyline points="3963 2363 3963 2414"/>
+    <polyline points="3912 2414 4014 2414"/>
+    <polyline points="3938 2439 3988 2439"/>
+    <polyline points="3958 2464 3968 2464"/>
+   </g>
+   <g fill="#000">
+    <path d="m3973 2337c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+   </g>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <g fill="none">
+     <polyline points="4090 2947 4090 2998"/>
+     <polyline points="4039 2998 4141 2998"/>
+     <polyline points="4065 3023 4115 3023"/>
+     <polyline points="4085 3049 4095 3049"/>
+    </g>
+    <path d="m4141 1575 25-50 26 50h-51" fill-rule="evenodd"/>
+    <polyline points="4166 1626 4166 1525" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="4115" y="1490" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m5766 1575 26-50 25 50h-51" fill-rule="evenodd"/>
+    <polyline points="5792 1626 5792 1525" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="5741" y="1490" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+   </g>
+  </g>
+  <g fill="#000" fill-rule="evenodd" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m5802 1753c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m4176 1728c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m2992 2993c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="2972 3013 2972 3074" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="2972" y="2963" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">5V-USB</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <g fill="none">
+     <polyline points="4369 2312 4369 2363"/>
+     <polyline points="4319 2363 4420 2363"/>
+     <polyline points="4344 2388 4395 2388"/>
+     <polyline points="4364 2414 4374 2414"/>
+    </g>
+    <path d="m4516 1799c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="4496 1819 4496 1880" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="4496" y="1769" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">EN</text>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m4506 2033c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m5405 3374c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="5385 3394 5385 3455" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="5385" y="3344" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">EN</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m5405 3729c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="5385 3750 5385 3811" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="5385" y="3700" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO0</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m5609 1748c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="5589 1768 5589 1829" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="5589" y="1718" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO0</text>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m5599 2134c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m6167 3374c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="6147 3394 6147 3455" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="6147" y="3344" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">DTR</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m2134 1347v-203h-203v203h203" fill-rule="evenodd"/>
+    <polyline points="1982 1448 1982 1347" fill="none"/>
+   </g>
+   <g transform="rotate(-90,1998,1321)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="1998" y="1321" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g transform="rotate(-90,1974,1421)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="1974" y="1421" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="2083 1448 2083 1347" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,2099,1321)" font-size="41.656px">
+     <text x="2099" y="1321" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g transform="rotate(-90,2075,1421)" font-size="41.656px">
+     <text x="2075" y="1421" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="1927" y="1020" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">J2</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="1927" y="1078" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">KF3012P</text>
+    </g>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m1595 1555c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="1575 1535 1575 1474" fill="none"/>
+   </g>
+   <g transform="rotate(-90,1591,1629)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="1591" y="1629" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">A</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m1728 1347v-203h-203v203h203" fill-rule="evenodd"/>
+    <polyline points="1575 1448 1575 1347" fill="none"/>
+   </g>
+   <g transform="rotate(-90,1591,1321)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="1591" y="1321" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g transform="rotate(-90,1567,1421)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="1567" y="1421" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="1677 1448 1677 1347" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,1693,1321)" font-size="41.656px">
+     <text x="1693" y="1321" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g transform="rotate(-90,1669,1421)" font-size="41.656px">
+     <text x="1669" y="1421" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="1521" y="1020" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">J1</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="1521" y="1078" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">KF3012P</text>
+    </g>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m1697 1555c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="1677 1535 1677 1474" fill="none"/>
+   </g>
+   <g transform="rotate(-90,1693,1647)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="1693" y="1647" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">L2</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m2002 1555c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="1982 1535 1982 1474" fill="none"/>
+   </g>
+   <g transform="rotate(-90,1998,1647)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="1998" y="1647" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">L2</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m2103 1555c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="2083 1535 2083 1474" fill="none"/>
+   </g>
+   <g transform="rotate(-90,2099,1647)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="2099" y="1647" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">L1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="4750 3902 4852 3902"/>
+    <polyline points="4750 3872 4852 3872"/>
+    <polyline points="4801 3912 4801 3902"/>
+    <polyline points="4801 3872 4801 3861"/>
+    <polyline points="4801 4014 4801 3912"/>
+   </g>
+   <g transform="rotate(-90,4793,3986)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="4793" y="3986" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="4801 3760 4801 3861" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,4793,3811)" font-size="41.656px">
+     <text x="4793" y="3811" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="4881" y="3915" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">C4</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="4881" y="3974" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1.0u</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m4633 3734c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g font-weight="400">
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="3658 3902 3760 3902"/>
+     <polyline points="3658 3872 3760 3872"/>
+     <polyline points="3709 3912 3709 3902"/>
+     <polyline points="3709 3872 3709 3861"/>
+     <polyline points="3709 4014 3709 3912"/>
+    </g>
+    <g transform="rotate(-90,3701,3986)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="3701" y="3986" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="3709 3760 3709 3861" fill="none"/>
+    </g>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,3701,3811)" fill="none" font-size="41.656px" stroke="#000">
+     <text x="3701" y="3811" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="3789" y="3915" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">C3</text>
+    </g>
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="3789" y="3974" xml:space="preserve">1.0u</text>
+     <text x="2769" y="2657" xml:space="preserve">220 actuels</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m5436 1982c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="5396 1982 5335 1982" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="5462" y="1998" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">TX</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m4466 1596c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="4446 1616 4446 1677" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4446" y="1566" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">RST</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" fill-rule="evenodd" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m4456 1982c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m3719 4065c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m3719 3734c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="2922 3303 3023 3303" fill="none"/>
+    <g fill-rule="evenodd">
+     <path d="m2922 3303v-21"/>
+     <path d="m2922 3282h20"/>
+     <path d="m3023 3303v20"/>
+     <path d="m3023 3323h-20"/>
+    </g>
+    <polyline points="2972 3353 2972 3303" fill="none"/>
+    <polyline points="2972 3201 2972 3150" fill="none"/>
+    <path d="m2972 3303-50-102h101l-51 102" fill-rule="evenodd"/>
+    <polyline points="2972 3404 2972 3353" fill="none"/>
+   </g>
+   <g transform="rotate(-90,2964,3427)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="2964" y="3427" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="2972 3099 2972 3150" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,2964,3099)" font-size="41.656px">
+     <text x="2964" y="3099" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="3053" y="3204" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">D5</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="3053" y="3262" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">CUS10S30_H3F</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m2982 3430c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="3404 3557 3303 3557" fill="none"/>
+    <g fill-rule="evenodd">
+     <path d="m3404 3557v20"/>
+     <path d="m3404 3577h-20"/>
+     <path d="m3303 3557v-21"/>
+     <path d="m3303 3536h20"/>
+    </g>
+    <polyline points="3353 3506 3353 3557" fill="none"/>
+    <polyline points="3353 3658 3353 3709" fill="none"/>
+    <path d="m3353 3557 51 101h-101l50-101" fill-rule="evenodd"/>
+    <polyline points="3353 3455 3353 3506" fill="none"/>
+   </g>
+   <g transform="rotate(-90,3345,3455)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="3345" y="3455" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="3353 3760 3353 3709" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,3345,3783)" font-size="41.656px">
+     <text x="3345" y="3783" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="3434" y="3560" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">D6</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="3434" y="3618" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">CUS10S30_H3F</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m3363 3430c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m3079 3531h41v153h-41v-153" fill-rule="evenodd"/>
+    <polyline points="3099 3480 3099 3531" fill="none"/>
+    <polyline points="3099 3734 3099 3684" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="62.484px" stroke-linecap="square">
+    <text x="3149" y="3585" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R10</text>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="3149" y="3643" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">10</text>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m3109 3430c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m3303 3938h101l-51-51-50 51" fill-rule="evenodd"/>
+    <g fill="none">
+     <polyline points="3303 3887 3404 3887"/>
+     <polyline points="3404 3912 3404 3887"/>
+     <polyline points="3353 3988 3353 3938"/>
+     <polyline points="3353 3836 3353 3887"/>
+    </g>
+   </g>
+   <g font-family="Arial" font-size="62.484px" stroke-linecap="square">
+    <text x="3434" y="3941" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">D7</text>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="3434" y="3999" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">5.1V</text>
+   </g>
+  </g>
+  <g fill="#000" fill-rule="evenodd" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m3363 4065c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m3363 3785c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m3109 3785c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m6706 4014h203v-356h-203v356" fill-rule="evenodd"/>
+    <polyline points="6605 3709 6706 3709" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6732" y="3725" xml:space="preserve">1</text>
+    <text x="6632" y="3701" xml:space="preserve">1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6605 3760 6706 3760" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6732" y="3776" xml:space="preserve">2</text>
+    <text x="6632" y="3752" xml:space="preserve">2</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6605 3811 6706 3811" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6732" y="3827" xml:space="preserve">3</text>
+    <text x="6632" y="3803" xml:space="preserve">3</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6605 3861 6706 3861" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6732" y="3877" xml:space="preserve">4</text>
+    <text x="6632" y="3853" xml:space="preserve">4</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6605 3912 6706 3912" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6732" y="3928" xml:space="preserve">5</text>
+    <text x="6632" y="3904" xml:space="preserve">5</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6605 3963 6706 3963" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="6732" y="3979" xml:space="preserve">6</text>
+     <text x="6632" y="3955" xml:space="preserve">6</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="6702" y="3642" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">J4</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="6702" y="4058" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">HEADER 6PIN-G-V-TH</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6493 3709c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6493 3709 6554 3709" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6370" y="3725" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">RX</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6493 3760c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6493 3760 6554 3760" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6374" y="3776" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">TX</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6493 3811c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6493 3811 6554 3811" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6343" y="3827" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">RST</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6493 3861c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6493 3861 6554 3861" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6341" y="3877" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">DTR</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6493 3912c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6493 3912 6554 3912" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6334" y="3928" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GND</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6493 3963c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6493 3963 6554 3963" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6353" y="3979" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3V3</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m4770 3552c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="4750 3572 4750 3633" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4750" y="3522" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3V3</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m4760 3734c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m2566 4750h406v-152h-406v152" fill-rule="evenodd"/>
+    <polyline points="2464 4649 2566 4649" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="2591" y="4665" xml:space="preserve">GND</text>
+    <text x="2492" y="4641" xml:space="preserve">1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="2464 4700 2566 4700" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000">
+    <g stroke-linecap="square">
+     <text x="2591" y="4716" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">RESET</text>
+    </g>
+    <g stroke-linecap="butt" stroke-width="3">
+     <polyline points="2591 4678 2731 4678" fill="none"/>
+    </g>
+    <g stroke-linecap="square">
+     <text x="2492" y="4692" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="3074 4649 2972 4649" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="2859" y="4665" xml:space="preserve">VDD</text>
+     <text x="3023" y="4641" xml:space="preserve">3</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="2562" y="4582" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">U3</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="2562" y="4794" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">TPS3839K33DBZR</text>
+    </g>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <g fill="none">
+     <polyline points="2236 4725 2236 4776"/>
+     <polyline points="2185 4776 2287 4776"/>
+     <polyline points="2210 4801 2261 4801"/>
+     <polyline points="2231 4827 2241 4827"/>
+    </g>
+    <path d="m3150 4573 26-51 25 51h-51" fill-rule="evenodd"/>
+    <polyline points="3176 4623 3176 4522" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="3125" y="4487" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m2357 5390c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="2337 5370 2337 5309" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="2279" y="5452" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">EN</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m3353 4903h407v-305h-407v305" fill-rule="evenodd"/>
+    <polyline points="3252 4750 3353 4750" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="3379" y="4766" xml:space="preserve">!MR</text>
+    <text x="3280" y="4742" xml:space="preserve">2</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="3861 4750 3760 4750" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="3566" y="4766" xml:space="preserve">!RESET!</text>
+    <text x="3811" y="4742" xml:space="preserve">1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="3861 4852 3760 4852" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="3641" y="4868" xml:space="preserve">GND</text>
+    <text x="3811" y="4844" xml:space="preserve">3</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="3861 4801 3760 4801" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="3650" y="4817" xml:space="preserve">THP</text>
+    <text x="3811" y="4793" xml:space="preserve">5</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="3861 4649 3760 4649" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="3646" y="4665" xml:space="preserve">VCC</text>
+     <text x="3811" y="4641" xml:space="preserve">4</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="3349" y="4582" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">U4</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="3349" y="4947" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">TPS3831K33DQNR</text>
+    </g>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m2317 5081h41v152h-41v-152" fill-rule="evenodd"/>
+    <polyline points="2337 5284 2337 5233" fill="none"/>
+    <polyline points="2337 5030 2337 5081" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="62.484px" stroke="#000" stroke-linecap="square">
+    <text x="2387" y="5135" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R11</text>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="2387" y="5193" xml:space="preserve">10K</text>
+    <text x="2387" y="5244" xml:space="preserve">pullup in TPS inactive mode =&gt; mcu active</text>
+    <text x="2387" y="5294" xml:space="preserve">pulldown in TPS active mode =&gt; mcu inactive</text>
+    <text x="2387" y="5345" xml:space="preserve">R6 is not required if any TPS* IC</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m4065 4573 25-51 25 51h-50" fill-rule="evenodd"/>
+    <polyline points="4090 4623 4090 4522" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="4039" y="4487" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="3963 4928 3963 4979"/>
+    <polyline points="3912 4979 4014 4979"/>
+    <polyline points="3938 5004 3988 5004"/>
+    <polyline points="3958 5030 3968 5030"/>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m2474 5030c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <g fill="none">
+     <polyline points="1017 4750 1017 4801"/>
+     <polyline points="966 4801 1067 4801"/>
+     <polyline points="991 4827 1042 4827"/>
+     <polyline points="1012 4852 1022 4852"/>
+    </g>
+    <path d="m1423 4852h305v-559h-305v559" fill-rule="evenodd"/>
+    <polyline points="1321 4446 1423 4446" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="4462" xml:space="preserve">D+</text>
+    <text x="1349" y="4438" xml:space="preserve">3</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 4395 1423 4395" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="4411" xml:space="preserve">D-</text>
+    <text x="1349" y="4387" xml:space="preserve">2</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 4547 1423 4547" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="4563" xml:space="preserve">GND</text>
+    <text x="1349" y="4539" xml:space="preserve">5</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 4496 1423 4496" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="4512" xml:space="preserve">ID</text>
+    <text x="1349" y="4488" xml:space="preserve">4</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 4649 1423 4649" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="4665" xml:space="preserve">SHIELD</text>
+    <text x="1291" y="4641" xml:space="preserve">SH1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 4700 1423 4700" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="4716" xml:space="preserve">SHIELD__1</text>
+    <text x="1291" y="4692" xml:space="preserve">SH2</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 4750 1423 4750" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="4766" xml:space="preserve">SHIELD__2</text>
+    <text x="1291" y="4742" xml:space="preserve">SH3</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 4801 1423 4801" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="4817" xml:space="preserve">SHIELD__3</text>
+    <text x="1291" y="4793" xml:space="preserve">SH4</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 4344 1423 4344" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="1448" y="4360" xml:space="preserve">VBUS</text>
+     <text x="1349" y="4336" xml:space="preserve">1</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="1419" y="4277" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">J6</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="1419" y="4896" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">MUSB05XBSMARKTR</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m1209 4344c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="1210 4344 1271 4344" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="995" y="4360" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">5V-USB</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m1209 4395c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="1210 4395 1271 4395" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="1100" y="4411" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">D-</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m1209 4446c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="1210 4446 1271 4446" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="1089" y="4462" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">D+</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m1209 4496c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="1210 4496 1271 4496" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="1102" y="4512" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">ID</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m5944 3760v-102l-51 51 51 51" fill-rule="evenodd"/>
+     <polyline points="5893 3760 5893 3658" fill="none"/>
+     <path d="m5893 3557v-102l51 51-51 51" fill-rule="evenodd"/>
+     <g fill="none">
+      <polyline points="5944 3557 5944 3455"/>
+      <polyline points="5893 3506 5843 3506"/>
+      <polyline points="5843 3506 5843 3709"/>
+      <polyline points="5843 3709 5893 3709"/>
+      <polyline points="5995 3709 5944 3709"/>
+      <polyline points="5792 3607 5843 3607"/>
+      <polyline points="5995 3506 5944 3506"/>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="62.484px" stroke-linecap="square">
+     <text x="5839" y="3439" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">D8</text>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="5839" y="3804" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">BAT54S</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="2439 3745 2541 3745"/>
+     <polyline points="2439 3775 2541 3775"/>
+     <polyline points="2490 3775 2490 3811"/>
+     <polyline points="2490 3745 2490 3709"/>
+     <polyline points="2490 3658 2490 3709"/>
+     <polyline points="2490 3861 2490 3811"/>
+    </g>
+    <g font-family="Arial" font-size="62.484px" stroke-linecap="square">
+     <text x="2570" y="3763" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">C6</text>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="2570" y="3821" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">100n</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" fill-rule="evenodd" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m2500 3430c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m2500 4065c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="5">
+    <polyline points="3150 3922 3049 3922"/>
+    <polyline points="3150 3953 3049 3953"/>
+    <polyline points="3099 3912 3099 3922"/>
+    <polyline points="3099 3953 3099 3963"/>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="3099 3811 3099 3912" fill="none"/>
+   </g>
+   <g transform="rotate(-90,3091,3861)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="3091" y="3861" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="3099 4065 3099 3963" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,3091,4037)" font-size="41.656px">
+     <text x="3091" y="4037" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="3178" y="3968" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">C7</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="3178" y="4026" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">DGH155Q5R5</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m3109 4065c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="2160 3775 2261 3775"/>
+    <polyline points="2160 3745 2261 3745"/>
+    <polyline points="2210 3785 2210 3775"/>
+    <polyline points="2210 3745 2210 3734"/>
+    <polyline points="2210 3887 2210 3785"/>
+   </g>
+   <g transform="rotate(-90,2202,3859)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="2202" y="3859" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="2210 3633 2210 3734" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,2202,3684)" font-size="41.656px">
+     <text x="2202" y="3684" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="2291" y="3788" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">C5</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="2291" y="3847" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">100uf</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" fill-rule="evenodd" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m2220 3430c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m2220 4065c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m2876 3531h41v153h-41v-153" fill-rule="evenodd"/>
+    <polyline points="2896 3480 2896 3531" fill="none"/>
+    <polyline points="2896 3734 2896 3684" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="62.484px" stroke="#000" stroke-linecap="square">
+    <text x="2946" y="3585" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R9</text>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="2946" y="3643" xml:space="preserve">10</text>
+    <text x="2946" y="3694" xml:space="preserve">optional</text>
+    <text x="2946" y="3745" xml:space="preserve">used to reduce leaks and speedup charging time...</text>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m2906 3430c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m5411 5004h406v-406h-406v406" fill-rule="evenodd"/>
+    <polyline points="5309 4649 5411 4649" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5436" y="4665" xml:space="preserve">EN</text>
+    <text x="5337" y="4641" xml:space="preserve">1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5309 4700 5411 4700" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5436" y="4716" xml:space="preserve">SEL</text>
+    <text x="5337" y="4692" xml:space="preserve">2</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5309 4750 5411 4750" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5436" y="4766" xml:space="preserve">CFG1</text>
+    <text x="5337" y="4742" xml:space="preserve">3</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5309 4801 5411 4801" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5436" y="4817" xml:space="preserve">CFG2</text>
+    <text x="5337" y="4793" xml:space="preserve">4</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5309 4852 5411 4852" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5436" y="4868" xml:space="preserve">CFG3</text>
+    <text x="5337" y="4844" xml:space="preserve">5</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5614 5106 5614 5004" fill="none"/>
+   </g>
+   <g transform="rotate(-90,5630,4979)" fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="5630" y="4979" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">EP</text>
+   </g>
+   <g transform="rotate(-90,5606,5098)" fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="5606" y="5098" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">11</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5919 4649 5817 4649" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5722" y="4665" xml:space="preserve">VIN</text>
+    <text x="5868" y="4641" xml:space="preserve">10</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5919 4700 5817 4700" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5719" y="4716" xml:space="preserve">LX1</text>
+    <text x="5868" y="4692" xml:space="preserve">9</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5919 4750 5817 4750" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5699" y="4766" xml:space="preserve">GND</text>
+    <text x="5868" y="4742" xml:space="preserve">8</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5919 4801 5817 4801" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="5719" y="4817" xml:space="preserve">LX2</text>
+    <text x="5868" y="4793" xml:space="preserve">7</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5919 4852 5817 4852" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="5675" y="4868" xml:space="preserve">VOUT</text>
+     <text x="5868" y="4844" xml:space="preserve">6</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="5407" y="4474" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">U5</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="5407" y="4532" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">TSP63900</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6592 4966h76v13h-76v-13" fill-rule="evenodd"/>
+     <path d="m6592 4928h76v13h-76v-13" fill-rule="evenodd"/>
+     <polyline points="6630 5030 6630 4979" fill="none"/>
+    </g>
+    <g transform="rotate(-90,6622,5053)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6622" y="5053" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="6630 4877 6630 4928" fill="none"/>
+    </g>
+   </g>
+   <g fill="none" font-family="Arial" stroke="#000" stroke-linecap="square">
+    <g transform="rotate(-90,6622,4877)" font-size="41.656px">
+     <text x="6622" y="4877" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="6698" y="4982" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">C9</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="6698" y="5040" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">22u</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6605 4776 25-51 25 51h-50" fill-rule="evenodd"/>
+     <polyline points="6630 4827 6630 4725" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6579" y="4690" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <g fill="none">
+      <polyline points="6630 5131 6630 5182"/>
+      <polyline points="6579 5182 6681 5182"/>
+      <polyline points="6605 5208 6655 5208"/>
+      <polyline points="6625 5233 6635 5233"/>
+      <polyline points="5614 5208 5614 5258"/>
+      <polyline points="5563 5258 5665 5258"/>
+      <polyline points="5589 5284 5639 5284"/>
+      <polyline points="5609 5309 5619 5309"/>
+     </g>
+     <path d="m3704 3247c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="3684 3267 3684 3328" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="3684" y="3217" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">VIN</text>
+    </g>
+   </g>
+  </g>
+  <g font-weight="400" stroke="#000">
+   <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m3694 3430c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m4694 4517c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="4674 4537 4674 4598" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="4674" y="4487" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">VIN</text>
+   </g>
+   <g fill="#000" fill-rule="evenodd" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m5268 4649c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+    <path d="m6640 4852c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   </g>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="4674 5258 4674 5309"/>
+    <polyline points="4623 5309 4725 5309"/>
+    <polyline points="4649 5335 4700 5335"/>
+    <polyline points="4669 5360 4679 5360"/>
+    <polyline points="4623 4867 4725 4867"/>
+    <polyline points="4623 4837 4725 4837"/>
+    <polyline points="4674 4877 4674 4867"/>
+    <polyline points="4674 4837 4674 4827"/>
+    <polyline points="4674 4979 4674 4877"/>
+   </g>
+   <g transform="rotate(-90,4666,4951)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="4666" y="4951" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="4674 4725 4674 4827" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,4666,4776)" font-size="41.656px">
+     <text x="4666" y="4776" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="4754" y="4881" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">C10</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="4754" y="4939" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">10u</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" fill-rule="evenodd" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m4684 4649c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m5624 5157c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m5081 4776h152v-51h-152v51" fill-rule="evenodd"/>
+    <polyline points="4979 4750 5081 4750" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="5007" y="4742" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="5335 4750 5233 4750" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g font-size="41.656px">
+     <text x="5284" y="4742" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="5077" y="4709" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R12</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="5077" y="4820" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">36.5K</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" fill-rule="evenodd" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m4684 5131c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m4989 4852c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+  </g>
+  <g fill="#000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="#000" stroke-linecap="square">
+   <text x="3328" y="5121" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">TH to GND impossible with this packaging...</text>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m6605 2083h203v-457h-203v457" fill-rule="evenodd"/>
+    <polyline points="6503 1677 6605 1677" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="1693" xml:space="preserve">01</text>
+    <text x="6508" y="1669" xml:space="preserve">01</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 1728 6605 1728" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="1744" xml:space="preserve">02</text>
+    <text x="6508" y="1720" xml:space="preserve">02</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 1779 6605 1779" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="1795" xml:space="preserve">03</text>
+    <text x="6508" y="1771" xml:space="preserve">03</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 1829 6605 1829" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="1845" xml:space="preserve">04</text>
+    <text x="6508" y="1821" xml:space="preserve">04</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 1880 6605 1880" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="1896" xml:space="preserve">05</text>
+    <text x="6508" y="1872" xml:space="preserve">05</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 1931 6605 1931" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="1947" xml:space="preserve">06</text>
+    <text x="6508" y="1923" xml:space="preserve">06</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 1982 6605 1982" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="1998" xml:space="preserve">07</text>
+    <text x="6508" y="1974" xml:space="preserve">07</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 2033 6605 2033" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="6630" y="2049" xml:space="preserve">08</text>
+     <text x="6508" y="2025" xml:space="preserve">08</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="6601" y="1610" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">J3</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="6601" y="2127" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">MTMM10808LS300</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6249 2134 25-51 26 51h-51" fill-rule="evenodd"/>
+     <polyline points="6274 2185 6274 2083" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6224" y="2049" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 1779c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 1779 6452 1779" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6267" y="1795" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">EN</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 1677c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 1677 6452 1677" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6241" y="1693" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">RST</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 2439c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 2439 6452 2439" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6272" y="2455" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">TX</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 2490c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 2490 6452 2490" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6268" y="2506" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">RX</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 2693c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 2693 6452 2693" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6196" y="2709" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO2</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 2744c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 2744 6452 2744" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6173" y="2760" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO15</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 2642c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 2642 6452 2642" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6196" y="2658" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO0</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m5685 2368c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="5665 2348 5665 2287" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="5536" y="2430" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO2</text>
+    </g>
+   </g>
+  </g>
+  <g font-weight="400" stroke="#000">
+   <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m5675 2185c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <g fill="none">
+     <polyline points="6376 2871 6376 2922"/>
+     <polyline points="6325 2922 6427 2922"/>
+     <polyline points="6351 2947 6401 2947"/>
+     <polyline points="6371 2972 6381 2972"/>
+    </g>
+    <path d="m4110 2510c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="4090 2530 4090 2591" fill="none"/>
+   </g>
+   <g transform="rotate(-90,4106,2464)" fill="none" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="4106" y="2464" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO15</text>
+   </g>
+   <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m4100 2642c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+   </g>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <g fill-rule="evenodd">
+     <path d="m6071 4700c1-14 12-25 26-25"/>
+     <path d="m6097 4675c13 0 24 11 25 25"/>
+     <path d="m6122 4700"/>
+     <path d="m6122 4700c1-14 12-25 25-25"/>
+     <path d="m6147 4675c14 0 25 11 26 25"/>
+     <path d="m6173 4700"/>
+     <path d="m6173 4700c0-14 12-25 25-25"/>
+     <path d="m6198 4675c14 0 25 11 26 25"/>
+     <path d="m6224 4700"/>
+     <path d="m6224 4700c0-14 11-25 25-25"/>
+     <path d="m6249 4675c14 0 25 11 25 25"/>
+     <path d="m6274 4700"/>
+    </g>
+    <polyline points="5970 4700 6071 4700" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="5997" y="4692" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="6376 4700 6274 4700" fill="none"/>
+   </g>
+  </g>
+  <g fill="none" font-family="Arial" font-weight="400" stroke="#000" stroke-linecap="square">
+   <g font-size="41.656px">
+    <text x="6325" y="4692" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+   </g>
+   <g font-size="62.484px">
+    <text x="6067" y="4659" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">L1</text>
+   </g>
+   <g font-size="41.656px">
+    <text x="6067" y="4744" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">DFE252012F-2R2M=P2</text>
+   </g>
+  </g>
+  <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <g fill-rule="evenodd">
+    <path d="m813 915h2718v1930h-2718v-1930"/>
+    <path d="m3531 915h3607v2184h-3607v-2184"/>
+    <path d="m5004 3099h2134v1118h-2134v-1118"/>
+   </g>
+   <g fill="none">
+    <polyline points="813 2845 813 5614"/>
+    <polyline points="813 5614 7138 5614"/>
+    <polyline points="7138 4217 7138 5614"/>
+   </g>
+  </g>
+  <g fill="#000000" font-family="Arial" font-size="104.14px" font-weight="700" stroke="none" stroke-linecap="square">
+   <text x="864" y="1089" xml:space="preserve">Teleinfo</text>
+   <text x="3607" y="1089" xml:space="preserve">ESP12F</text>
+   <text x="864" y="3020" xml:space="preserve">Power rails Linky/USB</text>
+   <text x="5106" y="3274" xml:space="preserve">ESP12F flash</text>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m5268 4852c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m3125 2515h-356v-152h356v152" fill-rule="evenodd"/>
+    <polyline points="3226 2414 3125 2414" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="2997" y="2430" xml:space="preserve">CCW</text>
+    <text x="3176" y="2406" xml:space="preserve">1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="2668 2414 2769 2414" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="2795" y="2430" xml:space="preserve">WIPER</text>
+    <text x="2695" y="2406" xml:space="preserve">2</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="3226 2464 3125 2464" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="3027" y="2480" xml:space="preserve">CW</text>
+     <text x="3176" y="2456" xml:space="preserve">3</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="2664" y="2575" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R1</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="2765" y="2559" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">TC33X-2-202E</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m2396 2414h-15v-102h15v102" fill-rule="evenodd"/>
+     <g fill="none">
+      <polyline points="2630 2261 2299 2261"/>
+      <polyline points="2630 2464 2299 2464"/>
+      <polyline points="2299 2261 2299 2464"/>
+      <polyline points="2630 2261 2630 2464"/>
+      <polyline points="2553 2414 2490 2414"/>
+      <polyline points="2553 2312 2490 2312"/>
+      <polyline points="2449 2386 2421 2358"/>
+      <polyline points="2421 2358 2439 2365"/>
+      <polyline points="2439 2365 2429 2376"/>
+      <polyline points="2429 2376 2421 2358"/>
+      <polyline points="2424 2335 2442 2342"/>
+      <polyline points="2442 2342 2431 2353"/>
+      <polyline points="2431 2353 2424 2335"/>
+      <polyline points="2452 2363 2424 2335"/>
+      <polyline points="2464 2337 2490 2388"/>
+      <polyline points="2490 2388 2515 2337"/>
+      <polyline points="2464 2388 2490 2388"/>
+      <polyline points="2490 2388 2515 2388"/>
+      <polyline points="2464 2337 2490 2337"/>
+      <polyline points="2490 2337 2490 2388"/>
+      <polyline points="2490 2337 2515 2337"/>
+      <polyline points="2490 2312 2490 2337"/>
+      <polyline points="2490 2414 2490 2388"/>
+      <polyline points="2579 2388 2553 2337"/>
+      <polyline points="2553 2337 2528 2388"/>
+      <polyline points="2579 2337 2553 2337"/>
+      <polyline points="2553 2337 2528 2337"/>
+      <polyline points="2579 2388 2553 2388"/>
+      <polyline points="2553 2388 2553 2337"/>
+      <polyline points="2553 2388 2528 2388"/>
+      <polyline points="2553 2414 2553 2388"/>
+      <polyline points="2553 2312 2553 2337"/>
+      <polyline points="2337 2312 2388 2363"/>
+      <polyline points="2388 2363 2342 2409"/>
+      <polyline points="2337 2414 2287 2414"/>
+      <polyline points="2337 2312 2287 2312"/>
+      <polyline points="2353 2383 2342 2409"/>
+      <polyline points="2342 2409 2337 2414"/>
+      <polyline points="2342 2409 2368 2398"/>
+      <polyline points="2368 2398 2353 2383"/>
+     </g>
+     <path d="m2558 2312c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5" fill-rule="evenodd"/>
+     <path d="m2558 2414c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5" fill-rule="evenodd"/>
+     <polyline points="2642 2312 2541 2312" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="2591" y="2352" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="2642 2414 2541 2414" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="2591" y="2454" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="2287 2312 2388 2312" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="2314" y="2352" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">4</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="2287 2414 2388 2414" fill="none"/>
+    </g>
+   </g>
+   <g fill="none" font-family="Arial" stroke="#000" stroke-linecap="square">
+    <g font-size="41.656px">
+     <text x="2314" y="2454" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="2283" y="2245" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">Q1</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="2283" y="2508" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">LTV-814S-TA1</text>
+    </g>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m3328 2414c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="3287 2414 3226 2414" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="3353" y="2430" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">L2</text>
+   </g>
+  </g>
+  <g fill="#000" fill-rule="evenodd" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m2170 2414c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+   <path d="m2195 1956c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <g fill="none">
+     <polyline points="1118 2083 1220 2083"/>
+     <polyline points="1118 2058 1067 2109"/>
+     <polyline points="1118 2007 1067 2058"/>
+     <polyline points="1169 2134 1169 2083"/>
+     <polyline points="1169 1982 1169 1931"/>
+    </g>
+    <g fill-rule="evenodd">
+     <path d="m1169 2083-51-101h102l-51 101"/>
+     <path d="m1083 2078 15 16-31 15 16-31"/>
+     <path d="m1083 2028 15 15-31 15 16-30"/>
+    </g>
+    <polyline points="1169 2185 1169 2134" fill="none"/>
+   </g>
+   <g transform="rotate(-90,1161,2208)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="1161" y="2208" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <polyline points="1169 1880 1169 1931" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g transform="rotate(-90,1161,1880)" font-size="41.656px">
+     <text x="1161" y="1880" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="1249" y="1985" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">D1</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="1249" y="2043" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">RED LED</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m1179 2210c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m1245 1834h153v41h-153v-41" fill-rule="evenodd"/>
+    <polyline points="1448 1855 1398 1855" fill="none"/>
+    <polyline points="1194 1855 1245 1855" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="62.484px" stroke-linecap="square">
+    <text x="1241" y="1818" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R13</text>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="1241" y="1919" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">18K</text>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m1535 1956c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="#000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="#000" stroke-linecap="square">
+   <text x="1169" y="1742" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">Optional led</text>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m1423 5487h305v-356h-305v356" fill-rule="evenodd"/>
+    <polyline points="1321 5182 1423 5182" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="5198" xml:space="preserve">1</text>
+    <text x="1349" y="5174" xml:space="preserve">1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 5233 1423 5233" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="5249" xml:space="preserve">2</text>
+    <text x="1349" y="5225" xml:space="preserve">2</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 5284 1423 5284" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="5300" xml:space="preserve">3</text>
+    <text x="1349" y="5276" xml:space="preserve">3</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 5335 1423 5335" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="5351" xml:space="preserve">4</text>
+    <text x="1349" y="5327" xml:space="preserve">4</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 5385 1423 5385" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="5401" xml:space="preserve">5</text>
+    <text x="1349" y="5377" xml:space="preserve">5</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1321 5436 1423 5436" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1448" y="5452" xml:space="preserve">MP1</text>
+    <text x="1286" y="5428" xml:space="preserve">MP1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1829 5182 1728 5182" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1616" y="5198" xml:space="preserve">MP2</text>
+    <text x="1779" y="5174" xml:space="preserve">MP2</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1829 5233 1728 5233" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1616" y="5249" xml:space="preserve">MP3</text>
+    <text x="1779" y="5225" xml:space="preserve">MP3</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1829 5284 1728 5284" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1616" y="5300" xml:space="preserve">MP4</text>
+    <text x="1779" y="5276" xml:space="preserve">MP4</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1829 5335 1728 5335" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="1616" y="5351" xml:space="preserve">MP5</text>
+    <text x="1779" y="5327" xml:space="preserve">MP5</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="1829 5385 1728 5385" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="1616" y="5401" xml:space="preserve">MP6</text>
+     <text x="1779" y="5377" xml:space="preserve">MP6</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="1419" y="5115" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">J8</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="1419" y="5531" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">micro USB</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <g fill="none">
+      <polyline points="1194 5436 1194 5487"/>
+      <polyline points="1144 5487 1245 5487"/>
+      <polyline points="1169 5512 1220 5512"/>
+      <polyline points="1189 5538 1199 5538"/>
+     </g>
+     <path d="m1133 5004c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="1133 5004 1194 5004" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="918" y="5020" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">5V-USB</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <g fill="none">
+      <polyline points="4801 1271 4776 1245"/>
+      <polyline points="4801 1271 5004 1271"/>
+      <polyline points="5004 1271 5030 1245"/>
+      <polyline points="5030 1245 5030 1093"/>
+      <polyline points="5030 1093 4776 1093"/>
+      <polyline points="4776 1093 4776 1245"/>
+     </g>
+     <g fill-rule="evenodd">
+      <path d="m4820 1226h13v32h-13v-32"/>
+      <path d="m4871 1226h13v32h-13v-32"/>
+      <path d="m4922 1226h13v32h-13v-32"/>
+      <path d="m4973 1226h12v32h-12v-32"/>
+     </g>
+     <polyline points="4827 1347 4827 1245" fill="none"/>
+    </g>
+    <g transform="rotate(-90,4843,1220)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4843" y="1220" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+    </g>
+    <g transform="rotate(-90,4819,1319)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4819" y="1319" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="4877 1347 4877 1245" fill="none"/>
+    </g>
+    <g transform="rotate(-90,4893,1220)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4893" y="1220" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g transform="rotate(-90,4869,1319)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4869" y="1319" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="4928 1347 4928 1245" fill="none"/>
+    </g>
+    <g transform="rotate(-90,4944,1220)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4944" y="1220" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3</text>
+    </g>
+    <g transform="rotate(-90,4920,1319)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4920" y="1319" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="4979 1347 4979 1245" fill="none"/>
+    </g>
+   </g>
+   <g fill="none" font-family="Arial" stroke="#000" stroke-linecap="square">
+    <g transform="rotate(-90,4995,1220)" font-size="41.656px">
+     <text x="4995" y="1220" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">4</text>
+    </g>
+    <g transform="rotate(-90,4971,1319)" font-size="41.656px">
+     <text x="4971" y="1319" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">4</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="4772" y="969" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">J9</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="4772" y="1027" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">PRT14417</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m5436 2287c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="5396 2287 5335 2287" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="5462" y="2303" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">SCL</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m5436 2236c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="5396 2236 5335 2236" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="5462" y="2252" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">SDA</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m4974 1580c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="4954 1560 4954 1499" fill="none"/>
+    </g>
+    <g transform="rotate(-90,4970,1712)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4970" y="1712" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">SDA</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m5024 1580c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="5004 1560 5004 1499" fill="none"/>
+    </g>
+    <g transform="rotate(-90,5020,1707)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="5020" y="1707" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">SCL</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <g fill="none">
+      <polyline points="4776 1525 4776 1575"/>
+      <polyline points="4725 1575 4827 1575"/>
+      <polyline points="4750 1601 4801 1601"/>
+      <polyline points="4771 1626 4781 1626"/>
+     </g>
+     <path d="m4903 1601-26 51-25-51h51" fill-rule="evenodd"/>
+     <polyline points="4877 1550 4877 1652" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4842" y="1718" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m5131 1352h153v41h-153v-41" fill-rule="evenodd"/>
+     <polyline points="5335 1372 5284 1372" fill="none"/>
+     <polyline points="5081 1372 5131 1372" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="62.484px" stroke-linecap="square">
+     <text x="5127" y="1336" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R16</text>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="5127" y="1437" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">4.7K</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m5014 1372c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-weight="400" stroke="#000">
+   <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m5131 1504h153v41h-153v-41" fill-rule="evenodd"/>
+    <polyline points="5335 1525 5284 1525" fill="none"/>
+    <polyline points="5081 1525 5131 1525" fill="none"/>
+   </g>
+   <g font-family="Arial" font-size="62.484px" stroke-linecap="square">
+    <text x="5127" y="1488" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">R17</text>
+   </g>
+   <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="5127" y="1589" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">4.7K</text>
+   </g>
+  </g>
+  <g font-weight="400" stroke="#000">
+   <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m4964 1474c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m5385 1169 26-51 25 51h-51" fill-rule="evenodd"/>
+    <polyline points="5411 1220 5411 1118" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+    <text x="5360" y="1083" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">3.3V</text>
+   </g>
+   <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+    <path d="m5421 1372c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+   </g>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m6391 2591c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="6391 2591 6452 2591" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="6239" y="2607" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">SDA</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m6391 2541c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="6391 2541 6452 2541" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="6244" y="2557" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">SCL</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m6605 2845h203v-457h-203v457" fill-rule="evenodd"/>
+    <polyline points="6503 2439 6605 2439" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="2455" xml:space="preserve">01</text>
+    <text x="6508" y="2431" xml:space="preserve">01</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 2490 6605 2490" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="2506" xml:space="preserve">02</text>
+    <text x="6508" y="2482" xml:space="preserve">02</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 2541 6605 2541" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="2557" xml:space="preserve">03</text>
+    <text x="6508" y="2533" xml:space="preserve">03</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 2591 6605 2591" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="2607" xml:space="preserve">04</text>
+    <text x="6508" y="2583" xml:space="preserve">04</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 2642 6605 2642" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="2658" xml:space="preserve">05</text>
+    <text x="6508" y="2634" xml:space="preserve">05</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 2693 6605 2693" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="2709" xml:space="preserve">06</text>
+    <text x="6508" y="2685" xml:space="preserve">06</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 2744 6605 2744" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6630" y="2760" xml:space="preserve">07</text>
+    <text x="6508" y="2736" xml:space="preserve">07</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="6503 2795 6605 2795" fill="none"/>
+   </g>
+   <g font-family="Arial" stroke-linecap="square">
+    <g fill="#000000" font-size="41.656px" stroke="none">
+     <text x="6630" y="2811" xml:space="preserve">08</text>
+     <text x="6508" y="2787" xml:space="preserve">08</text>
+    </g>
+    <g fill="none" font-size="62.484px" stroke="#000">
+     <text x="6601" y="2372" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">J5</text>
+    </g>
+    <g fill="none" font-size="41.656px" stroke="#000">
+     <text x="6601" y="2889" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">MTMM10808LS300</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 1728c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 1728 6452 1728" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6237" y="1744" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">ADC</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 1880c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 1880 6452 1880" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6173" y="1896" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO14</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 1931c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 1931 6452 1931" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6173" y="1947" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO12</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m6391 1982c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="6391 1982 6452 1982" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="6173" y="1998" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO13</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m4486 2490c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="4486 2490 4547 2490" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4268" y="2506" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO12</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m4486 2541c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="4486 2541 4547 2541" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4268" y="2557" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO13</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m4486 2591c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="4486 2591 4547 2591" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="4268" y="2607" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">GPIO14</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <path d="m5436 2388c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+     <polyline points="5396 2388 5335 2388" fill="none"/>
+    </g>
+    <g font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="5462" y="2404" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">ADC</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m3973 4852c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="#000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="#000" stroke-linecap="square">
+   <text x="5690" y="1438" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">R5 is optional since there is an internal pullup resistor</text>
+  </g>
+  <g font-weight="400">
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <path d="m6391 1829c0 11.05-8.95 20-20 20s-20-8.95-20-20 8.95-20 20-20 20 8.95 20 20" fill-rule="evenodd"/>
+    <polyline points="6391 1829 6452 1829" fill="none"/>
+   </g>
+   <g fill="#000000" font-family="Arial" font-size="41.656px" stroke="none" stroke-linecap="square">
+    <text x="6241" y="1845" xml:space="preserve">RST</text>
+    <text x="1474" y="1742" xml:space="preserve">TODO: minimisation de consommation: relier ce 3.3V à un GPIO</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5604 3531 5604 3430"/>
+    <polyline points="5573 3531 5573 3430"/>
+    <polyline points="5614 3480 5604 3480"/>
+    <polyline points="5573 3480 5563 3480"/>
+    <polyline points="5716 3480 5614 3480"/>
+   </g>
+   <g fill="none" font-family="Arial" font-size="41.656px" stroke="#000" stroke-linecap="square">
+    <text x="5665" y="3472" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+   </g>
+   <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke="#000" stroke-linecap="round" stroke-width="8">
+    <polyline points="5462 3480 5563 3480" fill="none"/>
+   </g>
+   <g fill="none" font-family="Arial" stroke="#000" stroke-linecap="square">
+    <g font-size="41.656px">
+     <text x="5489" y="3472" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="5559" y="3414" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">C8</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="5559" y="3575" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">10u</text>
+    </g>
+   </g>
+   <g fill="none" stroke="#000">
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <g fill="none">
+      <polyline points="5147 3633 5065 3633"/>
+      <polyline points="5147 3633 5157 3653"/>
+      <polyline points="5055 3612 5065 3633"/>
+      <polyline points="5106 3582 5106 3633"/>
+      <polyline points="5106 3785 5106 3734"/>
+     </g>
+     <path d="m5106 3633 51 101h-102l51-101" fill-rule="evenodd"/>
+     <polyline points="5106 3531 5106 3582" fill="none"/>
+    </g>
+    <g transform="rotate(-90,5098,3531)" font-family="Arial" font-size="41.656px" stroke-linecap="square">
+     <text x="5098" y="3531" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">1</text>
+    </g>
+    <g font-family="'MS Shell Dlg 2'" font-size="58.208px" stroke-linecap="round" stroke-width="8">
+     <polyline points="5106 3836 5106 3785" fill="none"/>
+    </g>
+   </g>
+   <g fill="none" font-family="Arial" stroke="#000" stroke-linecap="square">
+    <g transform="rotate(-90,5098,3859)" font-size="41.656px">
+     <text x="5098" y="3859" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">2</text>
+    </g>
+    <g font-size="62.484px">
+     <text x="5186" y="3636" fill="#000000" font-family="Arial" font-size="62.484px" font-weight="400" stroke="none" xml:space="preserve">D2</text>
+    </g>
+    <g font-size="41.656px">
+     <text x="5186" y="3694" fill="#000000" font-family="Arial" font-size="41.656px" font-weight="400" stroke="none" xml:space="preserve">PDZ3.3B_115</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <path d="m5395 3480c0 5.52-4.48 10-10 10s-10-4.48-10-10 4.48-10 10-10 10 4.48 10 10" fill-rule="evenodd"/>
+  </g>
+  <g fill="none" font-family="'MS Shell Dlg 2'" font-size="58.208px" font-weight="400" stroke="#000" stroke-linecap="round" stroke-width="8">
+   <polyline points="5106 3887 5106 3938"/>
+   <polyline points="5055 3938 5157 3938"/>
+   <polyline points="5081 3963 5131 3963"/>
+   <polyline points="5101 3988 5111 3988"/>
+  </g>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>Proteus Design Suite SVG export</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+</svg>
