@@ -62,7 +62,7 @@ Les composants sont choisis pour être courants, peu coûteux et faciles
 - Veille profonde
 - Suivi de tension du condensateur
 - Broches UART accessibles : GND, 3V3, 5V, RX, TX, DTR, RST
-(Note : la broche 3V3 **n'est pas protégée**; bien veiller à fournir cette tension exacte).
+(Notes : **ne pas utiliser simultanément les broches 3V3 et 5V**; la broche 3V3 **n'est pas protégée**; bien veiller à fournir cette tension exacte en cas d'utilisation).
 - GPIOs exposés : 12, 13, 14
 
 Options :
