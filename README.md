@@ -84,6 +84,9 @@ GPIO16  | Réveil deepsleep
 
 ### Datasheet
 
+[![schematic][telewatt_v1.1/schematic.svg]][telewatt_v1.1/schematic.svg]
+
+
 ## Firmware
 
 Le circuit est compatible avec l'extension Teleinfo de Tasmota :
