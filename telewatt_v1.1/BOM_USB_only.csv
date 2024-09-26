@@ -1,0 +1,35 @@
+Category,References,Value,Stock Code
+Capacitors,C1,10u,JMK107ABJ106MA-T/GRM188R60J106ME47D 
+Capacitors,C2,100n,0603YC104K4T4A
+Capacitors,C3,1.0u,JMK107BJ105MA-T
+Capacitors,C4,1.0u,JMK107BJ105MA-T
+Capacitors,C11,10u,JMK107ABJ106MA-T/GRM188R60J106ME47D 
+Resistors,R1,TC33X-2-202E,TC33X-2-202E
+Resistors,R2,3.3K,RMC1/16K3301FTP
+Resistors,R3,10K,RMC1/16-1002FTP
+Resistors,R4,10K,RMC1/16-1002FTP
+Resistors,R7,10K,RMC1/16-1002FTP
+Resistors,R8,10K,RMC1/16-1002FTP
+Resistors,R11,10K,RMC1/16-1002FTP
+Resistors,R13,18K,18K
+Resistors,R14,5.1K,5.1K
+Resistors,R15,5.1K,5.1K
+Resistors,R16,4.7K,4.7K
+Resistors,R17,4.7K,4.7K
+Resistors,R19,470K,470K
+Resistors,R20,470K,470K
+Integrated Circuits,U1,ESP12F,ESP12F
+Integrated Circuits,U2,MCP1700T3302E_TT,MCP1700T-3302E/TT
+Integrated Circuits,U3,TPS3839K33DBZR,TPS3839K33DBZR
+Transistors,Q1,LTV-814S-TA1,LTV-814S-TA1
+Transistors,Q2,BSS138,BSS138
+Transistors,Q3,UMH3N-TP,UMH3N-TP
+Diodes,D1,RED LED,
+Diodes,D5,CUS10S30_H3F,"CUS10S30,H3F"
+Miscellaneous,J1,KF3012P,bornier
+Miscellaneous,J2,KF3012P,bornier
+Miscellaneous,J3,MTMM10808LS300,
+Miscellaneous,J4,MTMM10808LS300,
+Miscellaneous,J5,HEADER 7PIN-G-V-TH,
+Miscellaneous,J8,micro USB,
+Miscellaneous,J9,PRT14417,
