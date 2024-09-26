@@ -28,10 +28,6 @@ Des économies sont promises, mais c'est surtout un profilage à l'usage qui est
 
 ## Circuit
 
-### Version 1.0
-
-### Version 1.1
-
 [![v1.1 front](./telewatt_v1.1/assets/full_option_front.png)](./telewatt_v1.1/assets/full_option_front.png)
 
 [![v1.1 back](./telewatt_v1.1/assets/full_option_back.png)](./telewatt_v1.1/assets/full_option_back.png)
@@ -98,6 +94,20 @@ GPIO16  | Réveil deepsleep
 ### Datasheet
 
 [![python test coverage](./telewatt_v1.1/schematic.svg)](./telewatt_v1.1/schematic.svg)
+
+
+### Historique des changements
+
+#### v1.1
+
+- Réduction de la taille: passe entièrement dans la coque du Linky
+- Ajout R18: Correctif ESP8266 défaillants sur le PCB
+- Correction du circuit de flash automatique non fonctionnel
+- Suppression connecteur Mini-USB
+- Doublement optionnel des zener D7-D8
+- Pad optionnel de gestion de la LED TIC
+- Pad optionnel de gestion du flash sur le pin RST au lieu du pin EN
+- Ajout broche 5V
 
 
 ## Firmware
