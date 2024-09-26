@@ -58,6 +58,7 @@ Les composants sont choisis pour être courants, peu coûteux et faciles
 Options :
 
 - LED optionnelle pour visualiser la réception Téléinfo
+(couper la piste droite du pad "Auto TIC LED", et souder le pad central avec celui de gauche).
 - Emplacement QWIIC I2C
 - Circuit d'alimentation USB
 
